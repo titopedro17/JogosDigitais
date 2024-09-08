@@ -1,7 +1,7 @@
 # 🎮 Aplicação de Busca de Jogos Digitais - Imersão Dev com Google Gemini
 
 Bem-vindo ao meu projeto de **Jogos Digitais**, onde você pode pesquisar por jogos digitando o nome, gênero ou até as tags relacionadas! 
-você só precisa escrever algo no campo de busca, e o sistema faz a mágica de encontrar o jogo perfeito para você. 😎
+você só precisa escrever algo no campo de busca, e o sistema encontra o jogo para você. 
 
 ## 💡 Como funciona?
 Você só precisa:
